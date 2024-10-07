@@ -13,6 +13,6 @@ Trabajo principalmente en el frontend con el **MERN stack**.
 
 |                |                |                |
 |----------------|----------------|----------------|
-| [![Klasse Makeup](https://i.postimg.cc/QNwb5bwp/Screen-Shot-2024-10-02-at-03-05-52.png)](https://klassemakeup.netlify.app) | [![AstroNewsletter](https://i.postimg.cc/s26P2gsj/Screen-Shot-2024-10-02-at-02-46-10.png)](https://astronewsletter.netlify.app) | [![Equipos VCR](https://i.postimg.cc/N0f7YHhC/Screen-Shot-2024-10-02-at-02-46-53.png)](https://equiposvcr.netlify.app) |
+| [![Klasse Makeup](https://i.postimg.cc/B6cMkvsv/998shots-so.webp)](https://klassemakeup.netlify.app) | [![AstroNewsletter](https://i.postimg.cc/QtW8sRCw/astronewsletter.png)](https://astronewsletter.netlify.app) | [![Equipos VCR](https://i.postimg.cc/Zn8JvprL/equiposvcr.png)](https://equiposvcr.netlify.app) |
 
 
