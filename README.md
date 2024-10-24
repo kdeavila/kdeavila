@@ -1,6 +1,8 @@
 
 # Hola, soy Keyner de Ávila
-Apasionado del desarrollo web, con especial interés en JavaScript y sus diversas aplicaciones en la creación de soluciones dinámicas y eficientes. Actualmente, curso la carrera de Ingeniería de Sistemas en la Universidad de la Costa - CUC, donde he fortalecido mis habilidades técnicas y de gestión.
+Soy estudiante de Ingeniería de Sistemas en la CUC, con formación en desarrollo de software por el SENA. A lo largo de mi carrera, he trabajado en diversos proyectos utilizando diferentes stacks. He desarrollado soluciones como un sistema de préstamos para una biblioteca y una plataforma de e-commerce de maquillaje y accesorios con pasarelas de pago integradas. También he creado landing pages para empresas del sector portuario y de bienes raíces, además de colaborar en proyectos para el SENA.
+
+Actualmente, me especializo en el desarrollo frontend, con un enfoque en React y haciendo uso de Tailwind para construir interfaces de manera rápida y eficiente.
 
 ## Tecnologías con las que trabajo
 ![Tecnologías](https://skillicons.dev/icons?i=html,css,js,express,react,nodejs,nextjs,tailwind,astro,git)  
