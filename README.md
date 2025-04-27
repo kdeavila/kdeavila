@@ -1,12 +1,12 @@
-
-
 # 👋🏽 Hola, soy Keyner de Ávila
-Soy estudiante de Ingeniería de Sistemas en la CUC, con formación en desarrollo de software por el SENA. Durante de mi carrera, he trabajado en diversos proyectos utilizando diferentes stacks. He desarrollado soluciones como un sistema de préstamos para una biblioteca y una plataforma de e-commerce de maquillaje y accesorios con pasarelas de pago integradas. También he creado landing pages para empresas del sector portuario y de bienes raíces, además de colaborar en proyectos para el SENA.
+Soy técnico de software certificado por el SENA y estudiante de Ingeniería de Sistemas en la Universidad de la Costa. Sólido conocimiento y aplicación de buenas prácticas en interfaces de usuario agradables, responsivas y veloces, impulsado por mi enfoque instantáneo y eficiente. Como desarrollador front-end me centro en la construcción de diversos tipos de aplicaciones, abarcando desde landing pages estéticas y funcionales, pasando por e-commerces, hasta la creación de réplicas de aplicaciones reales, todo con React, Next.js, TypeScript y Tailwind CSS.
 
-Actualmente, me especializo en el desarrollo frontend, con un enfoque en React y haciendo uso de Tailwind para construir interfaces de manera rápida y eficiente.
+Además, tengo experiencia en desarrollo backend usando Express y Node.js. Con el fin de mejorar mis capacidades full-stack, actualmente estoy aprendiendo C# y .NET. Mi filosofía es que el aprendizaje debe ser constante, avanzando paso a paso en bloques pequeños que crecen hasta abrazar la complejidad.
+
+¿Viste que nota? Si te cuadra la vuelta, échales un ojo a mis vainas y contáctame si algo! 😉
 
 ## 🌐 Tecnologías más usadas
-![Tecnologías](https://skillicons.dev/icons?i=html,css,js,express,react,nodejs,nextjs,tailwind,astro,git)
+![Tecnologías](https://skillicons.dev/icons?i=html,css,js,express,react,nodejs,nextjs,typescript,prisma,dotnet,bootstrap,tailwind,astro,git)
 
 Trabajo principalmente en el frontend con el **MERN stack**.
 
