@@ -19,7 +19,7 @@ pnpm run growth
 ![Frontend](https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,zustand)
 
 ### ⚙️ Backend
-![Backend](https://skillicons.dev/icons?i=cs,dotnet,mysql,postgresql)
+![Backend](https://skillicons.dev/icons?i=cs,dotnet,nestjs,nodejs,mysql,postgresql)
 
 ### 🧰 Tools & Practices
 ![Tools](https://skillicons.dev/icons?i=git,github,docker,figma,notion,visualstudio)
