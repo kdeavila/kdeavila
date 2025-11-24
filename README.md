@@ -45,6 +45,4 @@ pnpm run growth
 ## 🤝 Let's Connect
 
 - **LinkedIn:** [Keyner de Ávila](https://www.linkedin.com/in/kdeavila)
-- **Portfolio:** [My Projects](https://kdeavila.site)
 - **Email:** kddeavila3@gmail.com
-```
