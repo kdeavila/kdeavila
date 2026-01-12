@@ -26,14 +26,6 @@ pnpm run growth
 
 ---
 
-## ✨ Featured Projects
-
-| 🔗 [Linktree Clone](https://equiposvcr.netlify.app) | 🛍️ [Klasse Makeup](https://klassemakeup.netlify.app) | 📧 [AstroNewsletter](https://astronewsletter.netlify.app) |
-|:-------------------:|:------------------------------:|:-------------------:|
-| *Modern Link Management (Next.js, NeonDB)* | *Full UI/UX E-commerce Build (Next.js, TypeScript)* | *Subscription Landing Page (Astro)* |
-
----
-
 ## 🧠 What I Value
 
 - **Modular, traceable systems** with clear separation of responsibilities  
